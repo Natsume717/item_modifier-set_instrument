@@ -1,0 +1,2 @@
+# item_modifier-set_instrument
+item_modifierの1項目であるset_instrumentのサンプルになります。
