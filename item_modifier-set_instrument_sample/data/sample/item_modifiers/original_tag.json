@@ -1,0 +1,6 @@
+[
+  {
+    "function": "minecraft:set_instrument",
+    "options": "#sample:one_type"
+  }
+]
